@@ -1,42 +1,58 @@
 # Cloud Computing Course Repository
 
-> *A collection of activities, outputs, and learning resources for Cloud Computing.*
+> *A collection of activities, outputs, and learning resources for CCM101
 
 ## 📌 About This Repository
 
-This repository serves as my organized workspace for all course requirements, including:
+This repo serves as my organized workspace for all course requirements, including:
 
 - Class notes and summaries
+
 - Lab activities and exercises
+
 - Mini-projects
+
 - Reflection papers
 
-## 👤 Student Information
+👤 Student Information
 
-- **Name:** Ranie Liza T. Tacaca
-- **Course/Section:** Bachelor of Science in Information Technology (BSIT)
-- **Instructor:** Jenkielyn Torres
-- **School Year:** 2026–2027
+- Name: Ranie Liza T. Tacaca
 
-## 📂 Repository Structure
+- Course/Section: BSIT-I
 
-```text
+- Instructor: Jenkielyn Torres
+
+- School Year: 2026-2027
+
+
+📂 Repository Structure
+
 cloud-computing-course/
-├── activities/
-├── projects/
-├── notes/
-├── reflections/
-└── README.md
-```
 
-## 📖 Key Concepts Covered
+├── activities/
+
+├── projects/
+
+├── notes/
+
+├── reflections/
+
+└── README.md
+
+
+
+📖 Key Concepts Covered
 
 - Cloud Computing Basics
+
 - Service Models (IaaS, PaaS, SaaS)
+
 - Deployment Models (Public, Private, Hybrid, Community)
+
 - Version Control with Git & GitHub
+
 - Cloud Infrastructure Management
 
-## 🎯 Course Goal
 
-This repository documents my learning journey in Cloud Computing through organized activities, projects, notes, and reflections while applying version control using Git and GitHub.
+
+💡 Markdown Tips: Use # for headings, * or - for lists, **text** for bold, and [link text](url) for hyperlinks.
